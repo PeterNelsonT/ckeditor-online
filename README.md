@@ -25,3 +25,5 @@ export function RichTextEditor() {
   );
 }
 ```
+
+![ckeditor-online demo](https://raw.githubusercontent.com/peternelsont/ckeditor-online/master/sample/demo.png)
